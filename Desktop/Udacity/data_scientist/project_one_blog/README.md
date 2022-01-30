@@ -23,6 +23,15 @@ This directory contains:
 - The jupyter notebook `citi_bike_ride.ipynb` containing the data analysis process: data import/preparation, data exploration/analysis followed by visualization and findings (in iterations rather than linear process, so bear with me!)
 - This `README.md` file
 
+## Findings
+
+To discover the findings in detail, have a look at the [medium article](https://medium.com/@eddouhbanimehdi/and-you-are-you-also-a-citibiker-6e0def144600) about NYC citibikers and their habits!
+
+If you're a bit too lazy to do so, below a recap of the major takeaways of our analysis:
+- We learned about the profile of the CitiBike subscribers: mainly male young people between 20–40 years old
+- We then looked at when and where people were taking their bikes: the middle of the week (Tuesday/Wednesday/Thursday) being the most active days, with a peak from 6 to 9am and 3 to 6pm. This indicates that most users bike to commute to work or to school.
+- Finally, we examined the difference of behavior between one-off users and subscribers, as subscribers formed 94% of our dataset and therefore strongly influenced previous results: we learned that one-off users bike longer (about two to three times on average!) than the subscribers, and will mostly use the CitiBikes during Fridays or the weekends, which are the days during which CitiBikes are least used by subscribers.
+
 ## Licensing and Authors
 I Must give credit to Kaggle for the data. Unfortunately once I tried to retrieve the licenses related to the data the dataset was not available in Kaggle! 
 Otherwise feel free to use this code as you want to!
